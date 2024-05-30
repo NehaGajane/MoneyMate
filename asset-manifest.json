@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NehaGajane/MoneyMate.git/static/css/main.327a9aeb.css",
+    "main.js": "/NehaGajane/MoneyMate.git/static/js/main.ffb8f398.js",
+    "static/media/transactions.svg": "/NehaGajane/MoneyMate.git/static/media/transactions.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/NehaGajane/MoneyMate.git/index.html",
+    "main.327a9aeb.css.map": "/NehaGajane/MoneyMate.git/static/css/main.327a9aeb.css.map",
+    "main.ffb8f398.js.map": "/NehaGajane/MoneyMate.git/static/js/main.ffb8f398.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327a9aeb.css",
+    "static/js/main.ffb8f398.js"
+  ]
+}
